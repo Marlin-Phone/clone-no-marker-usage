@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/commit-activity/w/marlin-phone/clone-no-marker-usage" alt="commit activity"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marlin-phone.clone-no-marker-usage" alt="visitors"/> 
   <img src="https://img.shields.io/github/languages/top/marlin-phone/clone-no-marker-usage?logo=c%2B%2B&logoColor=white" alt="top language"/>
-  <img src="https://img.shields.io/github/license/marlin-phone/clone-no-marker-usage" alt="license"/>
+  <img src="https://img.shields.io/github/license/marlin-phone/clone-no-marker-usage?cache=bust1" alt="license"/>
 </p>
 
 
